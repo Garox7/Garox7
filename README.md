@@ -42,7 +42,6 @@ const aboutMe = {
 </div> -->
 
 ## 💻 Some stats 💻
----
 
 <a href="https://github.com/garox7" target="_blank">
   <img align="left" style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garox7&layout=compact&hide=php,html,shell,hack&exclude_repo=laravel-auth,laravel-one-to-many,the-definitive-live-project,laravel-many-to-many,laravel-api&theme=radical" />
