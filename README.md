@@ -45,9 +45,9 @@ const aboutMe = {
 ---
 
 <a href="https://github.com/garox7" target="_blank">
-  <img align="left" style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garox7&layout=compact&hide=php,html,shell,hack&exclude_repo=laravel-auth,laravel-one-to-many,the-definitive-live-project,laravel-many-to-many,laravel-api&theme=radical" />
+  <img align="left" style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garox7&layout=compact&hide=php,html,shell,hack&exclude_repo=laravel-auth,laravel-one-to-many,the-definitive-live-project,laravel-many-to-many,laravel-api&theme=radical" />
 </a>
 
 <a href="https://github.com/garox7" target="_blank">
-  <img align="left" style="height: 200px; margin-left:25px" src="https://github-readme-stats.vercel.app/api?username=garox7&count_private=true&theme=radical" />
+  <img align="left" style="height: 180px; margin-left:25px" src="https://github-readme-stats.vercel.app/api?username=garox7&count_private=true&theme=radical" />
 </a>
