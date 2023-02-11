@@ -19,7 +19,7 @@ const aboutMe = {
         backEnd: ["Laravel", "PHP"],
         database: ["mySql"],
     },
-    currentOccupation: ["last year student at Boolean, open for job opportunities"],
+    currentOccupation: ["student at Boolean, open for job opportunities"],
 };
 ```
 
